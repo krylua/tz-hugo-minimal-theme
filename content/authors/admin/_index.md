@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: ThiccZafira
+name_pronunciation:
 
 # Is this the primary user of the site?
 superuser: true
@@ -11,11 +11,11 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🍑
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,12 +26,9 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+  - icon: lock-keyhole
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://fansly.com/thicczafira/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/spacex/
