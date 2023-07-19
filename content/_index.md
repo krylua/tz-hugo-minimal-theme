@@ -24,4 +24,21 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
+  - block: pricing
+    content:
+      title: Fansly
+      subtitle: Unlock NSFW Content
+      plans:
+        - title: Following
+          price: $0
+          period: /month
+          description: Access to "Social" and mildly nude content
+          highlight: 'Highlight goes here'
+          button:
+            url: https://example.com
+            text: Get Started          
+          features:
+            - All the blocks you need
+            - No setup
+            - Community support
 ---
