@@ -26,9 +26,6 @@ bio: ''
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: fansly
-    icon_pack: custom
-    link: https://fansly.com/thicczafira/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/thicczafira/
